@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*
+/.idea
+/.vscode
+/.cursor/
+/.zed
+/node_modules
